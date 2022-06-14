@@ -11,7 +11,7 @@
 - [x] #184 promise all and all settled and race
 - [x] #185 Async and training
 - [x] #186 Await and training
-- [ ] #187 try , catch, and finally with fetch
+- [x] #187 try , catch, and finally with fetch
 - [x] #188 the end and advices
 - [ ] assignment week num 22 in j.s
 - [ ] ملزمه 5 تكامل
