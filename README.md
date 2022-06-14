@@ -9,3 +9,9 @@
 - [x] 186 - Await
 - [x] 187 - Try, Catch, Finally With Fetch
 -[ ] String Functions Part 08 [ 6 Functions ]
+- [ ] String Functions Part 08 [ 6 Functions ]
+- [ ] String Functions Part 09 [ 6 Functions ]
+- [ ] String Functions Part 10 [ 6 Functions ]
+- [ ] String Functions Part 11 [ 6 Functions ]
+- [ ] String Functions Part 12 [ 6 Functions ]
+
