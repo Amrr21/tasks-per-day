@@ -17,5 +17,5 @@
 - [x] ملزمه 5 تكامل (lecture 5)
 - [ ] ملزمه 6 تكامل (lecture 6)
 - [ ] ملزمه 7 تكامل (g1)
-- [ ] #11 mixin and include
+- [x] #11 mixin and include
 - [ ] trying to solve the first problem solving question
