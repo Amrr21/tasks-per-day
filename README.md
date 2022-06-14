@@ -8,4 +8,4 @@
 - [x] 185 - Async And Trainings
 - [x] 186 - Await
 - [x] 187 - Try, Catch, Finally With Fetch
-[ ] String Functions Part 08 [ 6 Functions ]
+-[ ] String Functions Part 08 [ 6 Functions ]
