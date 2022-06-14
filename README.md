@@ -5,9 +5,9 @@
 - [x] assignment week num 1 in sass
 - [x] #179 callback hell or pyramid of doom
 - [x] #180 promise intro and syntax
-- [ ] #181 promise then , catch , and finally
-- [ ] #182 promise and XHR
-- [ ] #183 fetch API
+- [x] #181 promise then , catch , and finally
+- [x] #182 promise and XHR
+- [x] #183 fetch API
 - [ ] #184 promise all and all settled and race
 - [ ] #185 Async and training
 - [ ] #186 Await and training
