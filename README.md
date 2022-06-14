@@ -4,7 +4,7 @@
 - [x] #10 comments and decumenting
 - [x] assignment week num 1 in sass
 - [x] #179 callback hell or pyramid of doom
-- [ ] #180 promise intro and syntax
+- [x] #180 promise intro and syntax
 - [ ] #181 promise then , catch , and finally
 - [ ] #182 promise and XHR
 - [ ] #183 fetch API
