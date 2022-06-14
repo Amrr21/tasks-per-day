@@ -1,17 +1,20 @@
 # tasks-per-day
-- [x] 179 - Callback Hell Or Pyramid Of Doom
-- [x] 180 - Promise Intro And Syntax
-- [x] 181 - Promise Then And Catch And Finally
-- [x] 182 - Promise And XHR 
-- [x] 183 - Fetch API
-- [x] 184 - Promise All And AllSettled And Race
-- [x] 185 - Async And Trainings
-- [x] 186 - Await
-- [x] 187 - Try, Catch, Finally With Fetch
--[ ] String Functions Part 08 [ 6 Functions ]
-- [ ] String Functions Part 08 [ 6 Functions ]
-- [ ] String Functions Part 09 [ 6 Functions ]
-- [ ] String Functions Part 10 [ 6 Functions ]
-- [ ] String Functions Part 11 [ 6 Functions ]
-- [ ] String Functions Part 12 [ 6 Functions ]
-
+### 14/6/2022
+- [x] #9 interpolation
+- [x] #10 comments and decumenting
+- [ ] assignment week num 1 in sass
+- [ ] #179 callback hell or pyramid of doom
+- [ ] #180 promise intro and syntax
+- [ ] #181 promise then , catch , and finally
+- [ ] #182 promise and XHR
+- [ ] #183 fetch API
+- [ ] #184 promise all and all settled and race
+- [ ] #185 Async and training
+- [ ] #186 Await and training
+- [ ] #187 try , catch, and finally with fetch
+- [ ] #188 the end and advices
+- [ ] assignment week num 22 in j.s
+- [ ] ملزمه 5 تكامل
+- [ ] ملزمه 6 تكامل
+- [ ] #11 mixin and include
+- [ ] trying to solve the first problem solving question
