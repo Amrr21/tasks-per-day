@@ -8,7 +8,7 @@
 - [x] #181 promise then , catch , and finally
 - [x] #182 promise and XHR
 - [x] #183 fetch API
-- [ ] #184 promise all and all settled and race
+- [x] #184 promise all and all settled and race
 - [ ] #185 Async and training
 - [ ] #186 Await and training
 - [ ] #187 try , catch, and finally with fetch
