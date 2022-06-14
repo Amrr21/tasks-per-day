@@ -12,7 +12,7 @@
 - [ ] #185 Async and training
 - [ ] #186 Await and training
 - [ ] #187 try , catch, and finally with fetch
-- [ ] #188 the end and advices
+- [x] #188 the end and advices
 - [ ] assignment week num 22 in j.s
 - [ ] ملزمه 5 تكامل
 - [ ] ملزمه 6 تكامل
