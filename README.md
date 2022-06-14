@@ -14,7 +14,8 @@
 - [x] #187 try , catch, and finally with fetch
 - [x] #188 the end and advices
 - [ ] assignment week num 22 in j.s
-- [ ] ملزمه 5 تكامل
-- [ ] ملزمه 6 تكامل
+- [ ] ملزمه 5 تكامل (lecture 5)
+- [ ] ملزمه 6 تكامل (lecture 6)
+- [ ] ملزمه 7 تكامل (g1)
 - [ ] #11 mixin and include
 - [ ] trying to solve the first problem solving question
