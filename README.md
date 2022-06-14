@@ -2,7 +2,7 @@
 ### 14/6/2022
 - [x] #9 interpolation
 - [x] #10 comments and decumenting
-- [ ] assignment week num 1 in sass
+- [x] assignment week num 1 in sass
 - [ ] #179 callback hell or pyramid of doom
 - [ ] #180 promise intro and syntax
 - [ ] #181 promise then , catch , and finally
