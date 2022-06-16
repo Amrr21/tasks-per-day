@@ -10,5 +10,11 @@
 - [ ] ملزمه 10 تكامل (final)
 - [ ] #12 loop for
 - [ ] #13 loop while 
-- [ ] #14 create bootstap grid system
+- [ ] #14 loop each and maps
 - [ ] solve problem solving question 
+### 16/6/2022
+- [ ] solve problem solving question 
+- [ ] #15 create bootstap grid system
+- [ ] #16 function
+- [ ] #17 practice mixin with content
+- [ ] solve 90 questions from integration sheet
