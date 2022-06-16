@@ -17,6 +17,6 @@
 - [ ] #15 create bootstap grid system
 - [ ] #16 function
 - [ ] #17 practice mixin with content
-- [ ] question 1 
-- [ ] question 2
+- [ ] questions 1 (sheet)
+- [ ] questions 2 (sheet)
 - [ ] solve 40 questions from integration sheet
