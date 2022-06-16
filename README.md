@@ -5,7 +5,7 @@
 - [x] sheet 7 integration (g1)
 - [ ] trying to solve the first problem solving question
 ### 15/6/2022
-- [ ] sheet 8 integration (g2)
+- [x] sheet 8 integration (g2)
 - [ ] sheet 9 integration (qu)
 - [ ] sheet 10 integration (final)
 - [ ] #12 loop for
