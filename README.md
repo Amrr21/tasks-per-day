@@ -1,8 +1,6 @@
 # tasks-per-day
 ### 14/6/2022
 - [ ] assignment week num 22 in j.s
-- [x] sheet 6 integration (lecture 6)
-- [x] sheet 7 integration (g1)
 - [ ] trying to solve the first problem solving question
 ### 15/6/2022
 - [ ] #12 loop for
