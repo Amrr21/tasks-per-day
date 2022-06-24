@@ -21,10 +21,5 @@
 - [ ] #02 canvas in deep and real life
 - [ ] #03 context and filling style
 - [ ] #04 Gradients and Pattern Fill
-### 22/6/2022
-##lecture 1 dynamics 
-- [ ] pdf 1
-- [ ] pdf 2
-- [ ] pdf 3
-- [ ] pdf 4
-- [ ] mp4
+### 24/6/2022
+- [ ] Delayed things
