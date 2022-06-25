@@ -19,5 +19,3 @@
 - [ ] #04 Gradients and Pattern Fill
 ### 25/6/2022
 - [ ] Delayed things
-- [ ] problem solving question
-- [ ] problem solving question 
