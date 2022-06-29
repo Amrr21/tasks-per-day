@@ -4,8 +4,6 @@
 ### 19/6/2022
 - [ ] #04 Gradients and Pattern Fill
 ### 28/6/2022
-- [ ] problem solving question
-- [ ] problem solving question
 - [ ] #05 StrokeRect And Text
 - [ ] #06 Create Charts Training
 - [ ] #07 Paths And Lines
@@ -16,3 +14,7 @@
 - [ ] #12 Text Align And Direction
 - [ ] #13 Create Smile Face And Learn Closing Paths
 - [ ] #14 End And Where To Continue
+### 29/6/2022
+- [ ] delayed tasks
+- [ ] problem solving 
+- [ ] problem solving
