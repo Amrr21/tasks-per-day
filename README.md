@@ -3,7 +3,6 @@
 - [ ] assignment week num 22 in j.s
 
 ### 28/6/2022
-- [ ] #09 Drawing Circle By Arc
 - [ ] #10 Shadow Methods
 - [ ] #11 Transformation And Save, Restore Context
 - [ ] #12 Text Align And Direction
