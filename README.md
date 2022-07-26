@@ -1,6 +1,4 @@
 # tasks-per-day
-- [ ] 
-- [ ] 
 - [ ] [Arabic] HTML, CSS Tutorials -  Create Tooltip In All Directions.mp4
 - [ ] [Arabic] HTML, CSS Tutorials - Animated Wavy Background.mp4
 - [ ] [Arabic] HTML, CSS Tutorials - Burger Icon Transform Effects.mp4
