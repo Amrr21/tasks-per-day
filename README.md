@@ -2,7 +2,7 @@
 - [x] [Arabic] HTML, CSS Tutorials -  Create Tooltip In All Directions.mp4
 - [x] [Arabic] HTML, CSS Tutorials - Animated Wavy Background.mp4
 - [x] [Arabic] HTML, CSS Tutorials - Burger Icon Transform Effects.mp4
-- [ ] [Arabic] HTML, CSS Tutorials - Centering Elements Horizontally And Vertically.mp4
+- [x] [Arabic] HTML, CSS Tutorials - Centering Elements Horizontally And Vertically.mp4
 - [ ] [Arabic] HTML, CSS Tutorials - Create Ribbon Without Images.mp4
 - [ ] [Arabic] HTML, CSS Tutorials - Create Triangle With Clip Path.mp4
 - [ ] [Arabic] HTML, CSS Tutorials - Customize Radio Input.mp4
